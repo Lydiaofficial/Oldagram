@@ -126,6 +126,10 @@ strong {
     margin: 0;
 }
 
+. uploads {
+     width: 100%;
+}
+
 .icon {
     width: 18px;
     height: 18px;
